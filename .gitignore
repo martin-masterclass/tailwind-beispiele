@@ -2,7 +2,7 @@
 node_modules/
 
 # Output CSS
-src/output.css
+output.css
 
 # Logs
 npm-debug.log*
